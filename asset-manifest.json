@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/projectbrain/static/css/main.67ad0301.chunk.css",
+    "main.js": "/projectbrain/static/js/main.68f00464.chunk.js",
+    "main.js.map": "/projectbrain/static/js/main.68f00464.chunk.js.map",
+    "runtime-main.js": "/projectbrain/static/js/runtime-main.fbcf297a.js",
+    "runtime-main.js.map": "/projectbrain/static/js/runtime-main.fbcf297a.js.map",
+    "static/css/2.036b41f9.chunk.css": "/projectbrain/static/css/2.036b41f9.chunk.css",
+    "static/js/2.8a9d984d.chunk.js": "/projectbrain/static/js/2.8a9d984d.chunk.js",
+    "static/js/2.8a9d984d.chunk.js.map": "/projectbrain/static/js/2.8a9d984d.chunk.js.map",
+    "index.html": "/projectbrain/index.html",
+    "precache-manifest.b421b3a70b4830466bb891c66a0ccf4b.js": "/projectbrain/precache-manifest.b421b3a70b4830466bb891c66a0ccf4b.js",
+    "service-worker.js": "/projectbrain/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/projectbrain/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.67ad0301.chunk.css.map": "/projectbrain/static/css/main.67ad0301.chunk.css.map",
+    "static/js/2.8a9d984d.chunk.js.LICENSE.txt": "/projectbrain/static/js/2.8a9d984d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbcf297a.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.8a9d984d.chunk.js",
+    "static/css/main.67ad0301.chunk.css",
+    "static/js/main.68f00464.chunk.js"
+  ]
+}
